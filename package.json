@@ -1,0 +1,27 @@
+{
+  "name": "cryptoJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangnttm/cryptoJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangnttm/cryptoJS/issues"
+  },
+  "homepage": "https://github.com/hoangnttm/cryptoJS#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "crypto-js": "^3.1.9-1",
+    "ejs": "^2.5.6",
+    "express": "^4.14.1",
+    "pg": "^6.1.2"
+  }
+}
